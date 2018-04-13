@@ -1,7 +1,7 @@
 # Bitco.in
 An node module recevie Cryptocoin values from coinmarketcap.com
 
-[![Bitco.in version](https://img.shields.io/badge/FridayAPI-v4.0.1-ff69b4.svg)](https://www.npmjs.com/package/bitco)
+[![Bitco.in version](https://img.shields.io/badge/Bitco.in-v1.0.0-ff69b4.svg)](https://www.npmjs.com/package/bitco.in)
 
 ```shell
 $ npm i bitco.in
