@@ -1,5 +1,5 @@
 # Bitco.in
-An node module recevie Cryptocoin values
+An node module recevie Cryptocoin values from coinmarketcap.com
 
 
 ```shell
