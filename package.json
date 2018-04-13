@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "An node module receive Cryptocoin values",
   "main": "testcoin.js",
-  "scripts": {
-    "test": "take results"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ahmtcn123/Bitco.in.git"
@@ -18,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/ahmtcn123/Bitco.in/issues"
   },
-  "homepage": "https://github.com/ahmtcn123/Bitco.in#readme"
+  "homepage": "https://github.com/ahmtcn123/Bitco.in#readme" ,
  "dependencies": {
     "restify-clients": "^2.0.1",
     "assert": "^1.4.1",
