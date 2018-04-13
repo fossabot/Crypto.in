@@ -1,0 +1,27 @@
+{
+  "name": "bitco.in",
+  "version": "1.0.0",
+  "description": "An node module receive Cryptocoin values",
+  "main": "testcoin.js",
+  "scripts": {
+    "test": "take results"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmtcn123/Bitco.in.git"
+  },
+  "keywords": [
+    "Bit"
+  ],
+  "author": "Ahmetcan Aksu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ahmtcn123/Bitco.in/issues"
+  },
+  "homepage": "https://github.com/ahmtcn123/Bitco.in#readme"
+ "dependencies": {
+    "restify-clients": "^2.0.1",
+    "assert": "^1.4.1",
+	"accounting-js": "^1.1.1"
+  }
+  }
