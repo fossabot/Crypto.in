@@ -1,7 +1,7 @@
 # Bitco.in
 An node module recevie Cryptocoin values from coinmarketcap.com
 
-[![Build Status](https://travis-ci.org/ahmtcn123/Bitco.in.svg?branch=master)](https://travis-ci.org/ahmtcn123/Bitco.in) [![Bitco.in version](https://img.shields.io/badge/Bitco.in-v1.0.2-ff69b4.svg)](https://www.npmjs.com/package/bitco.in)
+[![Build Status](https://travis-ci.org/ahmtcn123/Bitco.in.svg?branch=master)](https://travis-ci.org/ahmtcn123/@fridayai/Bitco.in) [![Bitco.in version](https://img.shields.io/badge/Bitco.in-v1.0.2-ff69b4.svg)](https://www.npmjs.com/package/bitco.in)
 
 ```shell
 $ npm i @fridayai/bitco.in
