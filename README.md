@@ -1,7 +1,7 @@
 # Crypto.in
 An node module recevie Cryptocoin values from coinmarketcap.com
 
-[![Build Status](https://travis-ci.org/ahmtcn123/Crypto.in.svg?branch=master)](https://travis-ci.org/ahmtcn123/Crypto.in) [![Crypto.in version](https://img.shields.io/badge/Crypto.in-v1.0.5-ff69b4.svg)](https://www.npmjs.com/package/crypto.in)
+[![Build Status](https://travis-ci.org/ahmtcn123/Crypto.in.svg?branch=master)](https://travis-ci.org/ahmtcn123/Crypto.in) [![Crypto.in version](https://img.shields.io/badge/Crypto.in-v1.0.6-ff69b4.svg)](https://www.npmjs.com/package/crypto.in)
 
 
 **How can I use it ?**
