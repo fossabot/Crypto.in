@@ -74,7 +74,7 @@ module.exports.cryptoin = cryptoin;
 
 
 //Ahmetcan Aksu 2018 
-  //Bitco.in
+  //Crypto.in
   
 
 
