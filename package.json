@@ -5,7 +5,7 @@
   "main": "testcoin.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahmtcn123/Bitco.in.git"
+    "url": "git+https://github.com/ahmtcn123/Crypto.in.git"
   },
   "keywords": [
     "Bit"
@@ -13,12 +13,12 @@
   "author": "Ahmetcan Aksu",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/ahmtcn123/Bitco.in/issues"
+    "url": "https://github.com/ahmtcn123/Crypto.in/issues"
   },
-  "homepage": "https://github.com/ahmtcn123/Bitco.in#readme" ,
+  "homepage": "https://github.com/ahmtcn123/Crypto.in#readme" ,
  "dependencies": {
     "restify-clients": "^2.0.1",
     "assert": "^1.4.1",
-	"accounting-js": "^1.1.1"
+    "accounting-js": "^1.1.1"
   }
   }
