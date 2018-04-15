@@ -1,7 +1,7 @@
 {
   "name": "crypto.in",
-  "version": "1.0.8",
-  "description": "An node module receive Cryptocoin values",
+  "version": "1.0.9",
+  "description": "An node module receive Crypto coin values",
   "main": "testcoin.js",
   "repository": {
     "type": "git",
