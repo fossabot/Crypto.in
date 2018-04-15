@@ -6,7 +6,7 @@ An node module recevie Cryptocoin values from coinmarketcap.com
 
 **How can I use it ?**
 
-You can just write crypto coin name and get the values. !!
+Just write crypto coin name and get the values. !!
 
 **Example**
 ```js
@@ -75,7 +75,7 @@ and returns null
 
 */
 
-**You can debug error by using this**
+**You can debug error like this**
 
 if(value === null) {
 	return console.log('Opps wrong')
@@ -83,7 +83,6 @@ if(value === null) {
 
 
 ```
- 
 
 
 Try out our special AI API ? > [FridayAPI](https://intelligentthings.github.io/FridayAPI/ "See docs")
