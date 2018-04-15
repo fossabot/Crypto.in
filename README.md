@@ -71,9 +71,11 @@ Error: Wrong cryptocoin name.
 
 and returns null 
 
-You can debug this error by using this
+
 
 */
+
+**You can debug this error by using this**
 
 if(value === null) {
 	return console.log('Opps wrong')
