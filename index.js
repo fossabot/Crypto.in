@@ -16,14 +16,16 @@ var client = clients.createJsonClient({
 
 if(cryptoco === '') {
     console.log (Error('Cryptocoin name is empty'));
-  return;
+    return;
+	value(null)
   };
 
 var coinname   = cryptoco.replace(/\s+/g,"-");
 
 
 if(coinname === '') {
-    console.log (Error('Cryptocoin name is empty'));
+  console.log (Error('Cryptocoin name is empty'));
+  value(null)
   return;
   };
 
@@ -32,7 +34,9 @@ if(coinname === '') {
 client.get(`/v1/ticker/${coinname}/`, function (err, req, res, obj) {
 
 if(obj.error === 'id not found') {
-	return console.log (Error('Wrong cryptocoin name.'));
+	console.log (Error('Wrong cryptocoin name.'));
+	value(null)
+	return;
 }
 
 //json
