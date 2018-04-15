@@ -1,7 +1,7 @@
 # Crypto.in
 An node module recevie Cryptocoin values from coinmarketcap.com
 
-[![Build Status](https://travis-ci.org/ahmtcn123/Crypto.in.svg?branch=master)](https://travis-ci.org/ahmtcn123/Crypto.in) [![Crypto.in version](https://img.shields.io/badge/Crypto.in-v1.0.7-ff69b4.svg)](https://www.npmjs.com/package/crypto.in)
+[![Build Status](https://travis-ci.org/ahmtcn123/Crypto.in.svg?branch=master)](https://travis-ci.org/ahmtcn123/Crypto.in) [![Crypto.in version](https://img.shields.io/badge/Crypto.in-v1.0.8-ff69b4.svg)](https://www.npmjs.com/package/crypto.in)
 
 
 **How can I use it ?**
@@ -73,11 +73,12 @@ and returns null
 
 You can debug this error by using this
 
+*/
+
 if(value === null) {
 	return console.log('Opps wrong')
 }
 
-*/
 
 ```
  
