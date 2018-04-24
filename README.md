@@ -2,6 +2,7 @@
 An node module recevie Cryptocoin values from coinmarketcap.com
 
 [![Build Status](https://travis-ci.org/ahmtcn123/Crypto.in.svg?branch=master)](https://travis-ci.org/ahmtcn123/Crypto.in) [![Crypto.in version](https://img.shields.io/badge/Crypto.in-v1.0.9-ff69b4.svg)](https://www.npmjs.com/package/crypto.in)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fahmtcn123%2FCrypto.in.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fahmtcn123%2FCrypto.in?ref=badge_shield)
 
 
 **How can I use it ?**
@@ -86,3 +87,7 @@ if(value === null) {
 
 
 Try out our special AI API ? > [FridayAPI](https://intelligentthings.github.io/FridayAPI/ "See docs")
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fahmtcn123%2FCrypto.in.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fahmtcn123%2FCrypto.in?ref=badge_large)
